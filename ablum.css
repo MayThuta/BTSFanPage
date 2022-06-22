@@ -1,0 +1,376 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #000;
+
+}
+
+#ablum{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#ablum .fourth{
+	width: 700px;
+	height: 300px;
+	margin-top: 50px;
+	
+
+	display: flex;
+	justify-content: space-around;
+	align-items: ;
+	background-color: ;
+	border-radius: 30px;
+	
+
+}
+
+#ablum .fourth img{
+	width: 40%;
+	height: 250px;
+	margin-top: 25px;
+	border-radius: 30px;
+	padding-left: 5px;
+	object-fit: cover;
+	cursor: pointer;
+}
+
+#ablum .fourth .ablum1{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #423f3f;
+	border-radius: 20px;
+
+}
+
+#ablum .fourth .ablum1 h1{
+	font-size: 25px;
+	font-weight: 100;
+	color: #fff;
+	margin-top: 20px;
+
+}
+
+#ablum .fourth .ablum1 span{
+	font-size: 20px;
+	line-height: 1px;
+	letter-spacing: 1px;
+	color: #fff;
+	align-items: center;
+	height: 50px;
+
+
+	margin-top: 30px;
+}
+
+#ablum .fourth .ablum1 p{
+	font-size: 22px;
+	line-height: 1px;
+	letter-spacing: 1px;
+	color: #000;
+	align-items: center;
+	height: 50px;
+
+
+	margin-bottom: 30px;
+}
+
+#ablum .fourth .ablum2{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #fff;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum3{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #5d815d;
+	border-radius: 20px;
+	color: #fff;
+}
+
+#ablum .fourth .ablum4{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #575353;
+	border-radius: 20px;
+	color: #fff;
+}
+
+#ablum .fourth .ablum5{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #fdc5cf;
+	border-radius: 20px;
+	color: #000;
+}
+
+#ablum .fourth .ablum6{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #b6f7f6;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum7{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #7adec0;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum8{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #000;
+	border-radius: 20px;
+	color: #fff;
+}
+
+#ablum .fourth .ablum9{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #94ecd2;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum10{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #e5e5fb;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum11{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #151530;
+	border-radius: 20px;
+	color: #fff;
+}
+
+#ablum .fourth .ablum12{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #a8cfee;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum13{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #fb7c92;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum14{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #4f4fb8;
+	border-radius: 20px;
+	color: #fff;
+}
+
+#ablum .fourth .ablum15{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color:#e5849a;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum16{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #474445;
+	color: #fff;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum17{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #fdfd02;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum18{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #fa880a;
+	border-radius: 20px;
+}
+
+#ablum .fourth .ablum19{
+	width: 45%;
+	height: 250px;
+	padding-left: 35px;
+	margin-top: 25px;
+	
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: #000;
+	color: #fff;
+	border-radius: 20px;
+}
+
+#footer{
+	display: flex;
+	justify-content: center;
+	align-items: ;
+}
+
+#footer .click{
+	width: 650px;
+	height: 200px;
+}
+
+#footer .click p{
+	font-size: 20px;
+	line-height: 1px;
+	margin-top: 50px;
+	color: #fff;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+
+}
+
+#footer .click span{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#footer .click a{
+	color: #000;
+    background-color: #fff;
+    text-transform: capitalize;
+    font-weight: 100; 
+    border-radius: 25px;
+
+    padding: 10px 30px;
+    text-decoration: none;
+
+}
+
+#footer .click a:hover{
+	background-color: #ca33dc;
+	transition: all 0.2s;
+}
+

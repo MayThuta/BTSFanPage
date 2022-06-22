@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #f79bab;
+
+}
+
+#members{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#members .second{
+	width: 650px;
+	height: 400px;
+	margin-top: 50px;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #f7b6c1;
+	
+}
+
+#members .second img{
+	width: 40%;
+	height: 400px;
+	object-fit: cover;
+}
+
+#members .second .profile{
+	width: 60%;
+	height: 400px;
+	
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding-left: 35px;
+}
+
+#members .second .profile h1{
+	font-size: 30px;
+	font-weight: 100;
+	color: #000;
+}
+
+#members .second .profile p{
+	font-size: 15px;
+	line-height: 1px;
+	letter-spacing: 1px;
+	color: #000;
+
+	margin-top: 25px;
+}
+
+#member{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+#member .third{
+	width: 650px;
+	height: 400px;
+	margin-top: 50px;
+	
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #f7b6c1;
+}
+
+#member .third .profiles{
+	width: 60%;
+	height: 400px;
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding-left: 35px;
+}
+
+#member .third .profiles h1{
+	font-size: 30px;
+	font-weight: 100;
+	color: #000;
+}
+
+#member .third .profiles p{
+	font-size: 15px;
+	line-height: 1px;
+	letter-spacing: 1px;
+	color: #000;
+
+	margin-top: 25px;
+}
+
+#member .third img{
+	width: 40%;
+	height: 400px;
+	object-fit: cover;
+	
+}
+
+.footer{
+	width: 100%;
+	height: 50px;
+}
